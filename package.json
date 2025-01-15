@@ -1,0 +1,26 @@
+{
+  "name": "breizsport-poc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:article-service": "cd backend/article-service && npm start",
+    "start:user-service": "cd backend/user-service && npm start",
+    "start:order-service": "cd backend/order-service && npm start",
+    "start:payment-service": "cd backend/payment-service && npm start",
+    "start:favorites-service": "cd backend/favorites-service && npm start",
+    "start:cart-service": "cd backend/cart-service && npm start",
+    "start:frontend": "cd frontend/breizhsport-frontend && npm run dev",
+    "start:services": "concurrently \"npm run start:article-service\" \"npm run start:user-service\" \"npm run start:order-service\" \"npm run start:cart-service\" \"npm run start:favorites-service\" \"npm run start:payment-service\"",
+    "start": "concurrently \"npm run start:frontend\" \"npm run start:services\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "faker": "^5.5.3"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
