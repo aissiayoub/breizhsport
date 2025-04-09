@@ -1,6 +1,6 @@
-<h1>Fashion eCommerce Shop in React.js, TypeScript and JSON server</h1>
+<h1>Breizhsport  eCommerce Shop in React.js, TypeScript and JSON server</h1>
 
-<p>Fashion eCommerce template is a custom <b>fashion theme</b> completely designed and created from the ground up. The theme is designed in Figma by following foundational web design practices. <b>The fashion website template</b> was created using React.js best practices and techniques. The fashion website template is mainly a luxury fashion template for women, but it can also be used for men and kids. The fashion website template can also be used for any React eCommerce template or clothing eCommerce website. You can download it for free and test it yourself.</p>
+<p>Breizhsport eCommerce template is a custom <b>Breizhsport theme</b> completely designed and created from the ground up. The theme is designed in Figma by following foundational web design practices. <b>The Breizhsport  website template</b> was created using React.js best practices and techniques. The Breizhsport website template is mainly a luxury Breizhsport template for women, but it can also be used for men and kids. The Breizhsport website template can also be used for any React eCommerce template or clothing eCommerce website. You can download it for free and test it yourself.</p>
 <p>The following technologies were used in design and development:</p>
 <ul>
   <li><p>Figma - The leading collaborative design tool for building meaningful products.</p></li>
@@ -18,7 +18,7 @@
 <h2>Video instructions YouTube tutorial for running the application:</h2>
 <a href="https://www.youtube.com/watch?v=M9DHiusoPOI">https://www.youtube.com/watch?v=M9DHiusoPOI</a>
 
-<h2>Instructions - The Fashion Website Template</h2>
+<h2>Instructions - The Breizhsport Website Template</h2>
 <ol>
   <li><p>To run the app you first need to download and install Node.js and npm on your computer. Here is a link to the tutorial that explains how to install them: <a href="https://www.youtube.com/watch?v=4FAtFwKVhn0" target="_blank">https://www.youtube.com/watch?v=4FAtFwKVhn0</a>. Also here is the link where you can download them: <a href="https://nodejs.org/en" target="_blank">https://nodejs.org/en</a></p></li>
   <li><p>When you install all the programs you need on your computer you need to download the project. When you download the project, you need to extract it.</p></li>
