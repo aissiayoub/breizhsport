@@ -1,15 +1,15 @@
-const express = require('express');
+const express = require("express");
 const app = express();
-require('dotenv').config();
-const bodyParser = require('body-parser');
-const cors = require('cors');
+require("dotenv").config();
+const bodyParser = require("body-parser");
+const cors = require("cors");
 
 app.use(bodyParser.json());
 app.use(cors());
 
-app.get('/', (req, res) => {
-    res.send('order Service is running!');
+app.get("/", (req, res) => {
+  res.send("order Service is running!");
 });
 
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT;
 app.listen(PORT, () => console.log(`order Service listening on port ${PORT}`));
